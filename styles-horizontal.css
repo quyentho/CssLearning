@@ -1,0 +1,19 @@
+.icon-bar{
+    font-size: 48px;
+    width: 100%;
+    background-color: #555;
+    display: flex;
+}
+.icon-bar a{
+    display: inline;
+    color: white;
+    width: 20%;
+    text-align: center;
+    padding: 15px;
+}
+.icon-bar a:hover{
+    background-color: black;
+}
+.highlight{
+    background-color: #46A049;
+}

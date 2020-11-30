@@ -1,0 +1,16 @@
+.icon-bar{
+    font-size: 48px;
+    background-color: #555;
+    width: fit-content;
+}
+.icon-bar a{
+    color:white;
+    display: block;
+    padding: 15px;
+}
+.icon-bar a:hover{
+    background-color: black;
+}
+.highlight{
+    background-color: #4CAF50;
+}
